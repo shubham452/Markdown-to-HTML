@@ -1,0 +1,12 @@
+1. create 2 folders as frontend and backend
+Frontend:
+Commands to set up:
+ npx create-react-app .
+
+Packages installed: axios, tailwind css
+
+Backend:
+Command to set up:
+ npm init -y
+
+Packages installed: body-parser, cors, express, marked, nodemon
